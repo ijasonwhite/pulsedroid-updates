@@ -2,7 +2,7 @@
   "version_code": 1,
   "version_name": "1.0.0",
   "url": "https://github.com/ijasonwhite/pulsedroid-updates/releases/download/v1.0.0/PulseDroid-1.0.0.apk",
-  "sha256": "a1981821e9bcb9ca6cfec98bc28018e30a36bc73de6305e2bfb4d007967ec715",
+  "sha256": "be96a13a4b94ad733d209f43289d0ea576c93fc8d6f969ae104566e01e74030c",
   "min_version_code": 1,
   "released_at": "2026-10-20T09:20:01Z",
   "notes": "First release: USB polling, Media Connected prompt, poster grid, looping player, kiosk mode."
